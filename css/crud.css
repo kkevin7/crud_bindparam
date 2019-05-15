@@ -1,0 +1,37 @@
+body{
+    background: rgb(170, 213, 224);
+    font-family: Century Gothic;
+}
+
+table,th,td,tr{
+    border: 1px solid black;
+    color:white;
+}
+table{
+    margin: 0 auto;
+    background: rgba(107, 105, 105, 0.562);
+    width: 50%; 
+}
+th{
+    background: rgb(69, 54, 199);
+    height: 30px;
+}
+td{
+    background: rgb(30, 179, 79);
+    height: 30px;
+}
+.div{
+    margin: 1% auto;
+    text-align: center;
+}
+form{
+    margin: 1% auto;
+    width: 450px;
+    background: rgb(36, 153, 81);
+    padding: 20px;
+    color: white;
+}
+input{
+    height: 25px;
+    width: 250px;
+}
